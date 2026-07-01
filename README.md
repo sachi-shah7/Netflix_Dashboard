@@ -39,4 +39,3 @@ pip install -r requirements.txt
 python data_processing.py
 streamlit run ECB_app.py
 pip install -r requirements.txt
-'''
