@@ -34,7 +34,7 @@ Execute the backend Python script to process the raw bank portfolio data, execut
 ### Step 3: Launch the Streamlit Web Application
 Once the dataset is freshly generated, start up the live web dashboard panel in your local browser:
 
-'''bash
+```bash
 pip install -r requirements.txt
 python data_processing.py
 streamlit run ECB_app.py
