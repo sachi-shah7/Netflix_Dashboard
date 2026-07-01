@@ -1,4 +1,4 @@
-# 📊 Bank Customer Retention Dashboard
+# 🏛️ Bank Customer Retention Dashboard
 
 Hey there! Welcome to my repository. This project focuses on analyzing customer behavioral data from a European bank to understand exactly why customers leave (churn) and what keeps them around. 
 
