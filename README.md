@@ -27,14 +27,17 @@ If you want to pull this code down and play with it on your own computer, just f
 
 ### Step 1: Install the Dependencies
 Make sure you have Python installed, then run this command to install all the necessary libraries (like Pandas, Streamlit, and Plotly) at once:
-```bash
+'''bash
 pip install -r requirements.txt
-
+'''
 ### Step 2: Run the Data Processing Pipeline
 Execute the backend Python script to process the raw bank portfolio data, execute feature engineering, and generate the updated customer profile file:
-```bash
+'''bash
 python data_processing.py
+'''
 
-Step 3: Launch the Streamlit Web Application
+### Step 3: Launch the Streamlit Web Application
 Once the dataset is freshly generated, start up the live web dashboard panel in your local browser:
+'''bash
 streamlit run ECB_app.py
+'''
