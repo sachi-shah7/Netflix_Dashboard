@@ -24,4 +24,4 @@ Make sure you have Python installed, then run this command to install all the ne
 ```bash
 pip install -r requirements.txt
 python data_processing.py
-streamlit run app.py
+streamlit run ECB_app.py
