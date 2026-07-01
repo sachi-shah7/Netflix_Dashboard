@@ -38,8 +38,5 @@ Once the dataset is freshly generated, start up the live web dashboard panel in 
 pip install -r requirements.txt
 python data_processing.py
 streamlit run ECB_app.py
-
-
-'''bash
 pip install -r requirements.txt
 '''
